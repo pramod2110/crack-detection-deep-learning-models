@@ -1,1 +1,2 @@
 # crack-detection-deep-learning-models
+This GitHub repository contains the source code and trained models for crack detection on concrete surfaces using deep learning along with the accuracy obtained when tested with images having noise. The models used in this project include RESNET 50, VGG-16, INCEPTION RESNET V2 etc. I have also created a hybrid model using RESNET-50 as a feature extractor, with traditional machine learning classifiers such as XGBoost, Random Forest, K-Nearest Neighbors, and SVM classifiers.
